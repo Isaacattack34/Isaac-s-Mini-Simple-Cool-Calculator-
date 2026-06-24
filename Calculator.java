@@ -17,12 +17,12 @@ public class Calculator
         System.out.println(" ");
         System.out.println("Type in value");
         
-        double Nothin = keyboard.nextDouble();
-        double a = Nothin;
-        double b = Nothin;
-        double c = Nothin;
-        double d = Nothin;
-        double e = Nothin;
+        double x = keyboard.nextDouble();
+        double a = x;
+        double b = x;
+        double c = x;
+        double d = x;
+        double e = x;
         double z = 0;
         double temp = 0;
         while (true)
