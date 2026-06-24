@@ -24,7 +24,6 @@ public class Calculator
         double d = x;
         double e = x;
         double z = 0;
-        double temp = 0;
         while (true)
         {
             System.out.println("Type in another value (Type 0 to stop)");
